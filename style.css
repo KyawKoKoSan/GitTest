@@ -1,7 +1,13 @@
-body{
-    background-color: aliceblue;
+body {
+  background-color: aliceblue;
 }
 
-header{
-    color: red;
+header {
+  color: red;
+}
+header {
+  margin: 10px 15px;
+}
+p {
+  color: cadetblue;
 }
